@@ -1,0 +1,11 @@
+E:\Dds\EntregaEncomendas\bin\Debug\EntregaEncomendas.exe.config
+E:\Dds\EntregaEncomendas\bin\Debug\EntregaEncomendas.exe
+E:\Dds\EntregaEncomendas\bin\Debug\EntregaEncomendas.pdb
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.csproj.AssemblyReference.cache
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.csproj.SuggestedBindingRedirects.cache
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.Form1.resources
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.Properties.Resources.resources
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.csproj.GenerateResource.cache
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.csproj.CoreCompileInputs.cache
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.exe
+E:\Dds\EntregaEncomendas\obj\Debug\EntregaEncomendas.pdb
