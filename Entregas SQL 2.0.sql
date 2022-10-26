@@ -13,7 +13,7 @@ CREATE TABLE [encomendas] (
   [id] int PRIMARY KEY IDENTITY(1, 1),
   [id_morador] int,
   [data_cadastro] datetime NOT NULL DEFAULT (CURRENT_TIMESTAMP),
-  [data_retirada] datetime DEFAULT (CURRENT_TIMESTAMP),
+  [data_retirada] datetime,
   [nome_recebedor] nvarchar(255)
 )
 GO
